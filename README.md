@@ -1,7 +1,7 @@
 # e2e-mlops-environment
 Demo repository which creates an environment to run the end-to-end MLOps workflow defined in https://github.com/niall-turbitt/e2e-mlops on Databricks.
 
-### Setup
+### Setup
 
 1. [Download and Install Terraform](https://www.terraform.io/downloads)
 2. [Download, Install and Configure the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
