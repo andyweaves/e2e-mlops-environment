@@ -15,4 +15,4 @@ Once ```terraform apply``` has been run successfully, the output will contain:
 
 1. databricks_nonprod_url = The URL for your nonprod Databricks workspace
 2. databricks_prod_url = The URL for your prod Databricks workspace
-3. resource_prefix = a prefix that is added to all AWS and Databricks resources as follows ''''nonprod|prod'''-'''resource_prefix'''
+3. resource_prefix = a prefix that is added to all AWS and Databricks resources as follows ```nonprod|prod```-```resource_prefix```
